@@ -1,0 +1,8 @@
+source 'https://github.com/18plan/Specs.git'
+
+platform :ios, '7.0'
+inhibit_all_warnings!
+
+target 'SharingDemo' do
+    pod 'ShareSDK/SinaWeiboAndWechatDefault','3.6.0'
+end
