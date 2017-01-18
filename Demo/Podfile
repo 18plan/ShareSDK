@@ -4,5 +4,5 @@ platform :ios, '7.0'
 inhibit_all_warnings!
 
 target 'SharingDemo' do
-    pod 'ShareSDK/SinaWeiboAndWechatDefault','3.6.0'
+    pod 'ShareSDK/SinaWeiboAndWechatDefault','1.0.0'
 end
